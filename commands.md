@@ -19,5 +19,5 @@ git pull <remote repo>
 ```
 
 ```bash-
-git pus origin <b>master</b>
+git pus origin <branch>
 ```
